@@ -61,9 +61,6 @@ a{
     text-decoration: none;
     font-weight: bold;   
 }
-#ancaptube:hover{
-    background-color: #FFFB00;color: black;
-}
 #github:hover{
     color: black;
     background-color: white;
@@ -83,9 +80,6 @@ a{
 #tradingview:hover{
     background-color: #090909;
 }
-#trovo:hover{
-    background-color: #37CA8F;
-}
 #twitch:hover{
     background-color: #9146FF;
 }
@@ -97,9 +91,6 @@ a{
 }
 #kick:hover{
     background-color: #52FB17;
-}
-#odysee:hover{
-    background-image: linear-gradient(#F02668,#FA9129);
 }
 #onlifans:hover{
     background-color: #0091EA;
