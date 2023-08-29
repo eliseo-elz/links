@@ -135,6 +135,9 @@ a:hover{
     box-sizing: border-box;
 }
 #HJ{
+    position: relative;
+    top: 0px;
+    left: 0px;
     border-radius: 9px 9px 0px 0px;
 }
 #ded{
