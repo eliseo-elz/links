@@ -61,6 +61,10 @@ a{
     text-decoration: none;
     font-weight: bold;   
 }
+#fansly:hover{
+    color: white;
+    background-color: #2699f7;
+}
 #github:hover{
     color: black;
     background-color: white;
@@ -70,6 +74,10 @@ a{
 }
 #letterboxd:hover{
     background-color: #2C343F;
+}
+#patreon:hover{
+    color: white;
+    background-color: black;
 }
 #soundcloud:hover{
     background-color: #F26F23;
